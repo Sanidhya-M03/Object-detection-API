@@ -1,1 +1,4 @@
-# Object-detection-API
+To run locally:
+```
+uvicorn main_det:app
+```
